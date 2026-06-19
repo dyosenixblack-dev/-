@@ -1,0 +1,6 @@
+{
+  "name": "المصحف المحمدي المغربي",
+  "description": "تطبيق قرآن كريم احترافي يتيح قراءة المصحف المحمدي المغربي والاستماع إلى التلاوات القرآنية من نخبة القراء مع تجربة استخدام حديثة وسلسة. تأسيس يونس الهيدوري BY YOUNES HIDOURI",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

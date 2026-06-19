@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">المصحف المحمدي المغربي</string>
+    <string name="developer_tag">BY YOUNES HIDOURI</string>
+    <string name="app_desc">تطبيق قرآن كريم احترافي يتيح قراءة المصحف المحمدي المغربي والاستماع إلى التلاوات القرآنية من نخبة القراء مع تجربة استخدام حديثة وسلسة.</string>
+    
+    <!-- Home / Cards -->
+    <string name="card_read_quran">قراءة المصحف</string>
+    <string name="card_listen_quran">الاستماع للقرآن</string>
+    <string name="card_favorites">المفضلة</string>
+    <string name="card_last_read">آخر موضع قراءة</string>
+    <string name="card_search">البحث</string>
+    <string name="card_tasbeeh">التسبيح الإلكتروني</string>
+    <string name="card_azkar">الأذكار</string>
+    <string name="card_settings">الإعدادات</string>
+    <string name="card_about">حول التطبيق</string>
+    
+    <!-- Navigation / General -->
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_read">قراءة</string>
+    <string name="nav_listen">استماع</string>
+    <string name="nav_favorites">المفضلة</string>
+    <string name="nav_more">المزيد</string>
+    <string name="back">رجوع</string>
+    <string name="search_hint">ابحث عن سورة، صفحة، جزء، حزب...</string>
+    
+    <!-- Settings -->
+    <string name="settings_language">تغيير اللغة</string>
+    <string name="settings_theme">المظهر</string>
+    <string name="settings_theme_light">الوضع الفاتح</string>
+    <string name="settings_theme_dark">الوضع الداكن</string>
+    <string name="settings_theme_system">تلقائي حسب الجهاز</string>
+    <string name="settings_reading">إعدادات القراءة</string>
+    <string name="settings_font_size">حجم الخط</string>
+    <string name="settings_scroll_direction">اتجاه التمرير</string>
+    <string name="settings_scroll_horizontal">أفقي</string>
+    <string name="settings_scroll_vertical">عمودي</string>
+    <string name="settings_audio">إعدادات الصوت</string>
+    <string name="settings_audio_quality">جودة الصوت</string>
+    <string name="settings_audio_speed">سرعة التشغيل</string>
+    
+    <!-- Player -->
+    <string name="player_reciter">القارئ</string>
+    <string name="player_playing">جاري التشغيل...</string>
+    <string name="player_paused">متوقف مؤقتاً</string>
+    
+    <!-- Tasbeeh -->
+    <string name="tasbeeh_title">التسبيح الإلكتروني</string>
+    <string name="tasbeeh_reset">إعادة تعيين</string>
+    <string name="tasbeeh_vibration">الاهتزاز</string>
+    
+    <!-- Favorites & Last Read -->
+    <string name="favorites_empty">لا توجد عناصر في المفضلة حالياً.</string>
+    <string name="last_read_empty">لم يتم تسجيل أي قراءة بعد.</string>
+    <string name="resume_reading">متابعة القراءة</string>
+    <string name="last_page">آخر صفحة</string>
+    <string name="last_surah">آخر سورة</string>
+    <string name="last_time">وقت القراءة</string>
+</resources>

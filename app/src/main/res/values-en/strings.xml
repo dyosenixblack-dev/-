@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Al Mushaf Al Mohammadi Al Maghribi</string>
+    <string name="developer_tag">BY YOUNES HIDOURI</string>
+    <string name="app_desc">A professional Quran application that allows reading the Moroccan Al Mohammadi Mushaf and listening to audio recitations by prominent reciters, offering a modern and seamless experience.</string>
+    
+    <!-- Home / Cards -->
+    <string name="card_read_quran">Read Mushaf</string>
+    <string name="card_listen_quran">Listen Quran</string>
+    <string name="card_favorites">Favorites</string>
+    <string name="card_last_read">Last Read Position</string>
+    <string name="card_search">Search</string>
+    <string name="card_tasbeeh">Tasbeeh Counter</string>
+    <string name="card_azkar">Athkar</string>
+    <string name="card_settings">Settings</string>
+    <string name="card_about">About App</string>
+    
+    <!-- Navigation / General -->
+    <string name="nav_home">Home</string>
+    <string name="nav_read">Read</string>
+    <string name="nav_listen">Listen</string>
+    <string name="nav_favorites">Favorites</string>
+    <string name="nav_more">More</string>
+    <string name="back">Back</string>
+    <string name="search_hint">Search Surah, page, Juz, Hizb...</string>
+    
+    <!-- Settings -->
+    <string name="settings_language">Change Language</string>
+    <string name="settings_theme">Appearance</string>
+    <string name="settings_theme_light">Light Mode</string>
+    <string name="settings_theme_dark">Dark Mode</string>
+    <string name="settings_theme_system">System Default</string>
+    <string name="settings_reading">Reading Settings</string>
+    <string name="settings_font_size">Font Size</string>
+    <string name="settings_scroll_direction">Scroll Direction</string>
+    <string name="settings_scroll_horizontal">Horizontal</string>
+    <string name="settings_scroll_vertical">Vertical</string>
+    <string name="settings_audio">Audio Settings</string>
+    <string name="settings_audio_quality">Audio Quality</string>
+    <string name="settings_audio_speed">Playback Speed</string>
+    
+    <!-- Player -->
+    <string name="player_reciter">Reciter</string>
+    <string name="player_playing">Playing...</string>
+    <string name="player_paused">Paused</string>
+    
+    <!-- Tasbeeh -->
+    <string name="tasbeeh_title">Electronic Tasbeeh</string>
+    <string name="tasbeeh_reset">Reset</string>
+    <string name="tasbeeh_vibration">Vibration</string>
+    
+    <!-- Favorites & Last Read -->
+    <string name="favorites_empty">No favorites added yet.</string>
+    <string name="last_read_empty">No reading history registered yet.</string>
+    <string name="resume_reading">Resume Reading</string>
+    <string name="last_page">Last Page</string>
+    <string name="last_surah">Last Surah</string>
+    <string name="last_time">Read Time</string>
+</resources>
