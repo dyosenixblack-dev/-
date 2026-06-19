@@ -16,3 +16,10 @@
 local.properties
 .env
 debug.keystore
+
+# Force Git to track the specific build output artifacts so they appear on GitHub
+!.build-outputs/
+!.build-outputs/app-debug.apk
+!.build-outputs/debug.keystore.base64
+!debug.keystore.base64
+
